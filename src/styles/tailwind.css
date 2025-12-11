@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Desktop-only helper: center content and limit max-width for large screens */
+html, body, #root { height: 100%; }
